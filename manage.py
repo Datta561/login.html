@@ -4,7 +4,7 @@ import sys
 
 if __name__ == "__main__":
     # Set the default Django settings module for the 'manage.py' command.
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "your_project_name.settings")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "login.html.settings")
 
     try:
         # Import Django's command-line utility for administrative tasks.
